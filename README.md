@@ -13,7 +13,7 @@ Basicly i didn't want to redo the setup(test/tslint etc..) every time i build a 
 
 just:
 
-    $ serverless create --template-url https://github.com/andrea-lascola/serverless-typescript-template.git --path myService
+    $ serverless create --template-url https://github.com/andrea-lascola/serverless-typescript-template --path myService
 
     $ cd myService && npm i
 
