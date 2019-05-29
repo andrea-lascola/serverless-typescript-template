@@ -29,5 +29,4 @@ after that you can:
 
 
 ### TODO
-* add cli command for tslint
 * add dependency for logger / performance
